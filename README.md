@@ -318,6 +318,7 @@ sudo apt-get install libxcursor1 libgdk-pixbuf2.0-dev libxdamage-dev
 
 Esto instalará algunas bibliotecas que son necesarias para el funcionamiento de aves (particularmente de graph-tool que es usada por aves).
 
+
 ### Paso 2: Creación del Entorno
 
 Para administrar el entorno de ejecución de aves necesitas una instalación de `conda` ([Miniconda](https://docs.conda.io/en/latest/miniconda.html) es una buena alternativa).
@@ -330,6 +331,12 @@ make install-package
 ```
 
 Ello creará un entorno llamado `aves` que puedes utilizar a través del comando `conda activate aves`. 
+
+### paso 2.1: Descarga datasets y artefactos
+
+```sh
+dvc pull
+```
 
 ### Paso 3: Ejecución en Jupyter
 
