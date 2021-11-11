@@ -32,3 +32,4 @@ dependencies:
     - git+https://github.com/mims-harvard/scikit-fusion
     - pymunk
     - emoji
+    - dvc

@@ -31,3 +31,4 @@ dependencies:
     - git+https://github.com/zorzalerrante/aves
     - pymunk
     - emoji
+    - dvc
