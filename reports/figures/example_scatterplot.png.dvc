@@ -1,0 +1,4 @@
+outs:
+- md5: 51b570d0a0ada9b96b5b3bc8bfb10cd9
+  size: 98683
+  path: example_scatterplot.png

@@ -1,0 +1,4 @@
+outs:
+- md5: 2fc084ba029320181f5d09cabd73986c
+  size: 550992
+  path: example_bubbleplot.png

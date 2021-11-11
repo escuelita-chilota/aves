@@ -1,0 +1,4 @@
+outs:
+- md5: 73bdc74dd021f99fd1113c210e4fcf22
+  size: 103293
+  path: example_barchart.png

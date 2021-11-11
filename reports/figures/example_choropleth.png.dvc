@@ -1,0 +1,4 @@
+outs:
+- md5: dd1ff886d8fd04dfaa92c2140f137832
+  size: 991637
+  path: example_choropleth.png
